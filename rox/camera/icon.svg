@@ -14,8 +14,8 @@
   </defs>
 
   <!-- background -->
-  <rect x="1" y="1" rx="10" ry="10" width="52" height="52" style="fill:url(#backgroundgrad);stroke:url(#bordergrad);stroke-width:2" />
+  <rect x="1" y="1" rx="10" ry="10" width="52" height="52" fill="url(#backgroundgrad)" stroke="url(#bordergrad)" stroke-width="2" />
 
   <!-- image -->
-  <image x="3" y="3" width="48" height="48" href="logo.svg" />
+  <image x="3" y="3" width="48" height="48" href="thumb.svg" />
 </svg>
