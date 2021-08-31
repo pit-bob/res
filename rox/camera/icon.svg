@@ -17,5 +17,5 @@
   <rect x="1" y="1" rx="10" ry="10" width="52" height="52" fill="url(#backgroundgrad)" stroke="url(#bordergrad)" stroke-width="2" />
 
   <!-- image -->
-  <use x="3" y="3" width="48" height="48" href="thumb.svg" />
+  <image x="3" y="3" width="48" height="48" href="https://raw.githubusercontent.com/pit-bob/res/dev/rox/camera/thumb.svg" />
 </svg>
